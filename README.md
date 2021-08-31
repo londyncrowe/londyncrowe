@@ -1,12 +1,16 @@
 ### Hi there 👋
+
 My name is Londyn Crowe
 
-I’m currently working on finishing my final semester at ETSU. I am also doing some game development with my brother.
-I'm currently learning some ARM assembly and C for my Computer Architecture class.
+**Pronouns**: she/her.
 
-My email is crowela@etsu.edu
-My pronouns are she/her.
+I’m currently working on finishing my final semester at ETSU. I am also doing some game development with my brother.
+
+I'm having to learn some ARM assembly and C for my Computer Architecture class.
+
 My current favorite hobby is playing the piano, but I am new to the instrument.
+
+My email is **crowela@etsu.edu**.
 
 <!--
 **londyncrowe/londyncrowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
